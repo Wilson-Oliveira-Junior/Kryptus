@@ -1,0 +1,7 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="SetSong" />
+    <Parameters>
+        <PlaylistID type="Integer" value="45387" />
+        <Position type="Integer" value="14" />
+    </Parameters>
+</RequestMessage>

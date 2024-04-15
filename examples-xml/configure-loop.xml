@@ -1,0 +1,7 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="ConfigureLoop" />
+    <Parameters>
+        <PlaylistID type="Integer" value="45387" />
+        <LoopSetting type="Enumeration" value="Song" />
+    </Parameters>
+</RequestMessage>

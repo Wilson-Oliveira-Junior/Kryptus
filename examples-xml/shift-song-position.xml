@@ -1,0 +1,8 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="ShiftSongPosition" />
+    <Parameters>
+        <PlaylistID type="Integer" value="45387" />
+        <Position type="Integer" value="14" />
+        <NewPosition type="Integer" value="28" />
+    </Parameters>
+</RequestMessage>

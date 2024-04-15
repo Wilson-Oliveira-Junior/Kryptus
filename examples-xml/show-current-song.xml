@@ -1,0 +1,6 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="ShowCurrentSong" />
+    <Parameters>
+        <PlaylistID type="Integer" value="45387" />
+    </Parameters>
+</RequestMessage>

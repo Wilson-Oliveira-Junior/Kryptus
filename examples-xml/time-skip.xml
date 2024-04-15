@@ -1,0 +1,7 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="TimeSkip" />
+    <Parameters>
+        <PlaylistID type="Integer" value="45387" />
+        <TimeInterval type="Integer" value="10000" />
+    </Parameters>
+</RequestMessage>

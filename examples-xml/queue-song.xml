@@ -1,0 +1,12 @@
+<RequestMessage>
+    <Operation type="Enumeration" value="QueueSong" />
+    <Parameters>
+      <PlaylistID type="Integer" value="45387" />
+      <SongQuery type="Object" >
+        <Title type="String" value="Never Gonna Give You Up" />
+        <Genre type="String" value="Pop" />
+        <Artist type="String" value="Rick Ashtley" />
+      </SongQuery>
+      <Position type="Integer" value="21" />
+    </Parameters>
+</RequestMessage>
